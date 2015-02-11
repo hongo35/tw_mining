@@ -1,3 +1,4 @@
 core/settings.*
 *.pyc
+*.npy
 tw_dic.txt
